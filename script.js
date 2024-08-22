@@ -1,5 +1,5 @@
 //your JS code here. If required.
-var radios = document.getElementsByClassName('choose');
+var radios = document.getElementsByClassName('input');
 
 for (let i = 0; i < radios.length; i++) {
 	if (i%2==0) {

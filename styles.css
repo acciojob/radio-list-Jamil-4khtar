@@ -1,1 +1,5 @@
 /*  your css code here. If applicable */
+.input:nth-child(even) {
+	color: red;
+}
+	
